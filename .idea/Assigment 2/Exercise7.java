@@ -3,6 +3,7 @@
  */
 public class Exercise7 {
     public static void main(String[] args) {
+        
         int[] firstTestArrayOne = {1, 2, 3, 4, 5, 6};
         int[] firstTestArrayTwo = {1, 2, 3, 4, 5, 6};
 
